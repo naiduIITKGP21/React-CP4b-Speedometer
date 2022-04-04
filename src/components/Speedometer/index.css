@@ -1,0 +1,50 @@
+/* Write your CSS here */
+
+.sm-bg {
+  background-color: #07080c;
+  min-height: 100vh;
+  padding: 20px;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sm-main-heading {
+  font-size: 50px;
+  color: #ffffff;
+  font-style: italic;
+}
+.sm-img {
+  width: 80%;
+  max-width: 900px;
+}
+
+.sm-speed {
+  font-size: 24px;
+  color: #ffffff;
+}
+.sm-description {
+  color: #cbd5e1;
+  font-size: 18px;
+}
+.sm-button {
+  width: 120px;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.sm-accelerate {
+  border: 0;
+  background-color: #0b69ff;
+  margin-right: 10px;
+  color: #ffffff;
+}
+.sm-break {
+  border: 2px solid #94a3b8;
+  margin-left: 10px;
+  background-color: transparent;
+  color: #94a3b8;
+}
